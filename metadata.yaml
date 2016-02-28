@@ -1,0 +1,32 @@
+_repo: Historical-Papers-Part-3-from-Volume-VI-of-The-Works-of-John-Greenleaf-Whittier_9593
+creator:
+  author:
+    agent_name: Whittier, John Greenleaf
+    aliases:
+    - Whittier, John G. (John Greenleaf)
+    - Whittier, J. G. (John Greenleaf)
+    birthdate: 1807
+    deathdate: 1892
+    gutenberg_agent_id: '455'
+    url: http://www.gutenberg.org/2009/agents/455
+    wikipedia: http://en.wikipedia.org/wiki/John_Greenleaf_Whittier
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9593'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History'
+- !lcc 'PS'
+tableOfContents: 'Daniel O''Connell -- England under James II -- The border war of
+  1708 -- The great Ipswich fright -- Pope night -- The boy captives: an incident
+  of the Indian war of 1695 -- The black men in the Revolution and war of 1812 --
+  The Scottish reformers -- The Pilgrims of Plymouth -- Governor Endicott -- John
+  Winthrop.'
+title: "Historical Papers\r\nPart 3 from Volume VI of The Works of John Greenleaf\
+  \ Whittier"
+url: http://www.gutenberg.org/ebooks/9593
